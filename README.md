@@ -1,6 +1,7 @@
-# type-static
-all about typescript
+# Type-static
+All about typescript
 how to conrtibute yout files in the repo 
+
 On the terminal 
 
 # git add .
