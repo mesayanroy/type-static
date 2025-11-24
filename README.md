@@ -1,4 +1,4 @@
-# Type-static
+# Type-static.
 All about typescript
 how to conrtibute yout files in the repo 
 
